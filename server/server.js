@@ -49,4 +49,4 @@ app.post('/', async(req,res) =>{
     }
 })
 
-app.listen(8080, () => console.log('Server is running on port http://localhost:8080'))
+app.listen(6060, () => console.log('Server is running on port http://localhost:6060'))
