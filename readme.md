@@ -1,6 +1,6 @@
-Arti the Chatbot ai
+Zeno the Chatbot ai
     uses Vite, Javascript, OpenAI API, node express
 
-    Arti the Chatbot is deployed using 
+    Zeno the Chatbot is deployed using 
     backend: render
     frontend: vercel

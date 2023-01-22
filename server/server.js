@@ -17,7 +17,7 @@ app.use(express.json());
 
 app.get('/', async(req,res) =>{
     res.status(200).send({
-        message: 'Hey its Arti the Chatbot'
+        message: 'Hey its Zeno the Chatbot'
     })
 });
 
